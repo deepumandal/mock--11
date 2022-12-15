@@ -2,22 +2,11 @@
   "user": [
     {
       "id": 1,
-      "username" : "no_mercy_hunter",
-      "avtar": "https://i.pravatar.cc/150?img=15",
-      "follower": 100,
-      "following": 100,
-      "name": "deepak mandal",
-      "email": "nomercyhunters@gmail.com",
-      "password": "admin"
-    }
-  ],
-  "posts" : [
-    {
-      "id"  :1,
-      "userid" : "no_mercy_hunter",
-      "msg" : "this is random tweet",
-      "isgif" : true,
-      "link" : "https://media3.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif?cid=b3de4f29vit6slv5ihsirl2qi2d08yqh2pmcpph4e68axyky&rid=giphy.gif&ct=g"
+      "name" : "deepak kumar mandal",
+      "age" : 19,
+      "gender" : "male",
+      "country" : "india",
+      "profession" : "student"
     }
   ]
 }
