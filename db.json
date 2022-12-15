@@ -2,11 +2,34 @@
   "user": [
     {
       "id": 1,
-      "name" : "deepak kumar mandal",
-      "age" : 19,
-      "gender" : "male",
-      "country" : "india",
-      "profession" : "student"
-    }
+      "name": "deepak kumar mandal",
+      "age": 19,
+      "gender": "male",
+      "country": "india",
+      "profession": "student"
+      },
+      {
+      "name": "a",
+      "age": "25",
+      "gender": "female",
+      "country": "hfghjf",
+      "id": 2
+      },
+      {
+      "name": "a",
+      "age": "25",
+      "gender": "female",
+      "country": "hfghjf",
+      "profession": "student",
+      "id": 3
+      },
+      {
+      "name": "a",
+      "age": "25",
+      "gender": "female",
+      "country": "hfghjf",
+      "profession": "employed",
+      "id": 4
+      }
   ]
 }
